@@ -1,3 +1,3 @@
 class Passenger < ActiveRecord::Base
-  has_many :
+  has_many :taxi
 end
